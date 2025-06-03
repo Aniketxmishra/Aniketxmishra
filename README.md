@@ -79,9 +79,8 @@ npx aniket
 - Self-learning Web3, AI/ML, and advanced frontend engineering through hands-on projects
 
 ## 📫 Contact
-- **Email:** aniketxmishra@gmail.com
-- **LinkedIn:** [linkedin.com/in/aniketxmishra](https://linkedin.com/in/aniketxmishra)
-- **Portfolio:** [aniketmishra.dev](https://aniketmishra.dev)
+- **Email:** anik8mishra@gmail.com
+
 
 ## 🌱 Open to Opportunities
 I'm actively seeking roles where I can contribute to meaningful products and grow as a builder — whether in startups, open-source ecosystems, or forward-thinking tech teams.
