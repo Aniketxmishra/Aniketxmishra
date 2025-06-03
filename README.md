@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  
+# Hey there! 👋 I'm Paolo
 
-<!--
-**Aniketxmishra/Aniketxmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤔 The Universal Programming Truth
+
+<div align="center">
+  
+<img src="https://i.imgur.com/2lZnM1P.png" alt="Programming Logic" width="500"/>
+
+**When code doesn't work:** *I have no idea why?* 😵  
+**When code works:** *I have no idea why?* 🤷‍♂️
+
+</div>
+
+---
+
+## 🚀 About Me
+
