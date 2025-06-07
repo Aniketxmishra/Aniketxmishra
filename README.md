@@ -51,6 +51,8 @@ npx aniket
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniketxmishra&theme=default&hide_border=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Aniketxmishra&color=blue)
+
 ## 🔍 Current Focus
 - Building **Nomad**, a platform that fosters real-world connections and supports elderly companionship
 - Exploring AI/ML for SAR image colorization and high-resolution air quality mapping
