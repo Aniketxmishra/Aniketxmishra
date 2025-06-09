@@ -8,7 +8,7 @@ I'm a passionate software developer with experience in full-stack web developmen
 
 ## 💻 Quick Connect
 Want to know more about me? Try this in your terminal:
-npx aniket
+npm install @anik8mishra/portfolio --> npx aniket
 
 
 ## 🛠️ Technical Skills
