@@ -1,5 +1,5 @@
 # Aniket Mishra
-**Software Developer | Full Stack Engineer | Web3 & AI Enthusiast**
+**Software Developer | Full Stack Engineer | Web3 & AI Explorer**
 
 ---
 
