@@ -49,9 +49,10 @@ npm install @anik8mishra/portfolio --> npx aniket
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketxmishra&layout=compact&theme=default&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniketxmishra&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aniketxmishra&theme=default&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aniketxmishra&color=blue)
+
 
 ## 🔍 Current Focus
 - Building **Nomad**, a platform that fosters real-world connections and supports elderly companionship
