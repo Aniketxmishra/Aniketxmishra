@@ -45,9 +45,9 @@ npm install @anik8mishra/portfolio --> npx aniket
 
 ## 📊 GitHub Statistics
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketxmishra&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketxmishra&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketxmishra&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketxmishra&layout=compact&theme=dark&hide_border=true)
 
 ![Aniket's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniketxmishra&theme=github-dark)
 
