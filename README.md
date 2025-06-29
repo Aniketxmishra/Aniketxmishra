@@ -49,7 +49,7 @@ npm install @anik8mishra/portfolio --> npx aniket
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketxmishra&layout=compact&theme=default&hide_border=true)
 
-![GitHub streak](https://img.shields.io/badge/GitHub%20Streak-Aniketxmishra-brightgreen?style=for-the-badge&logo=github)
+![Aniket's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniketxmishra&theme=github-dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aniketxmishra&color=blue)
 
