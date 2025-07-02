@@ -51,7 +51,7 @@ npm install @anik8mishra/portfolio --> npx aniket
 
 ![Aniket's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniketxmishra&theme=github-dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aniketxmishra&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Aniketxmishra&color=black)
 
 
 ## 🔍 Current Focus
