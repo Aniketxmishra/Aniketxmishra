@@ -10,38 +10,37 @@ I'm a passionate software developer with experience in full-stack web developmen
 Want to know more about me? Try this in your terminal:
 npm install @anik8mishra/portfolio --> npx aniket
 
+## 🛠️ Technical Skills
 
-🛠️ TECHNICAL SKILLS```├── 📚 LANGUAGES
-│   ├── JavaScript (ES6+)
-│   ├── TypeScript
-│   ├── Python
-│   ├── Solidity (Basics)
-│   └── SQL```├── 🎨 FRONTEND
-│   ├── React.js &```xt.js
-│   ├── HTML5 & CSS3
-│   ├── Tailwind CSS &```SS
-│   ├── Redux & Context API
-│   ├── Framer Motion
-│   ├── ShadCN/UI
-│   └── Responsive & Accessible Design
-│
-├── ⚙️ BACKEND```  ├── Node.js```Express.js
-│   ├── RESTful API Design
-│   ├── Authentication & Authorization```  └── Real-time Communication (WebRTC, Firebase)
-│
-├── 🗄️ DATABASES
-│   ├── MongoDB
-│   ├── MySQL
-│   └── PostgreSQL
-│
-└── 🔧 DEV```OLS & PLATFORMS
-    ├── Git```GitHub
-    ├── Docker```  ├── Firebase
-    ├── AWS (EC2, S3, Lambda)
-    ├── Postman & VS Code
-    └── Vercel, Truffle, Ganache````
+### Languages
+- JavaScript (ES6+), TypeScript
+- Python
+- Solidity (Basics)
+- SQL
 
-## 🌊 **Flow-Style Visualization**
+### Frontend
+- React.js, Next.js
+- HTML5, CSS3, Tailwind CSS, SASS
+- Redux, Context API
+- Framer Motion, ShadCN/UI
+- Responsive & Accessible Web Design
+
+### Backend
+- Node.js, Express.js
+- RESTful API Design
+- Authentication & Authorization
+- Real-time Communication (WebRTC, Firebase)
+
+### Databases
+- MongoDB, MySQL, PostgreSQL
+
+### Dev Tools & Platforms
+- Git, GitHub
+- Docker
+- Firebase
+- AWS (EC2, S3, Lambda)
+- Postman, VS Code
+- Vercel, Truffle, Ganache
 
 ## 📊 GitHub Statistics
 
