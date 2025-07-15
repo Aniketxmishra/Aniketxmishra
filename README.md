@@ -83,7 +83,13 @@ npm install @anik8mishra/portfolio --> npx aniket
 
 ## 📫 Contact
 <div align="center">
-[![Email](https://img.shields.io/badge/-anik8mishra@gmail.elds.iotps://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor= Open to Opportunities
+
+[![Email](https://img.shields.io/badge/-anik8mishra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anik8mishra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketxmishra)
+![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge)
+
+</div>
+
 
 
 ## 🌱 Open to Opportunities
