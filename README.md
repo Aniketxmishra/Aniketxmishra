@@ -90,6 +90,22 @@ npm install @anik8mishra/portfolio --> npx aniket
 
 </div>
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <style>
+    .graffiti { 
+      animation: spray 2s infinite; 
+      fill: #ff6b6b; 
+    }
+    @keyframes spray {
+      0% { opacity: 0.5; }
+      50% { opacity: 1; }
+      100% { opacity: 0.5; }
+    }
+  </style>
+  <text class="graffiti" x="10" y="50">ANIKET</text>
+</svg>
+
+
 
 
 ## 🌱 Open to Opportunities
