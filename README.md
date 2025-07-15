@@ -1,5 +1,5 @@
 # Aniket Mishra
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web3+%26+AI+Explorer;Building+the+Future+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Web3+%26+AI+Explorer;Building+the+Future+%F0%9F%9A%80)
 
 ---
 
