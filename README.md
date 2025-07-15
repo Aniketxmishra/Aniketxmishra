@@ -13,10 +13,6 @@ npm install @anik8mishra/portfolio --> npx aniket
 
 ## 🛠️ Technical Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&&logoColordge/Next.js-000000?style=for-the-badge&logo-43853D?style=for-the-badge&logo=node.js/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=.io/badge/Solidity-363636?style=for-the-badge&logo=soliditys.io
-
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketxmishra&show_icons=true&theme=dark&hide_border=true&count_privatetop-langs/?username=Aniketxmishra&layout - Real-world connections platform
-
 ### Languages
 - JavaScript (ES6+), TypeScript
 - Python
