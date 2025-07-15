@@ -82,7 +82,8 @@ npm install @anik8mishra/portfolio --> npx aniket
 - Self-learning Web3, AI/ML, and advanced frontend engineering through hands-on projects
 
 ## 📫 Contact
-- **Email:** anik8mishra@gmail.com
+<div align="center">
+[![Email](https://img.shields.io/badge/-anik8mishra@gmail.elds.iotps://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor= Open to Opportunities
 
 
 ## 🌱 Open to Opportunities
