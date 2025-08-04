@@ -96,8 +96,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
 </p>
----
-
 
 
 ## 📫 How to Reach Me
