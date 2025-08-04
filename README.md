@@ -112,7 +112,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-anik8mishra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anik8mishra@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketxmishra)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anik8mishra)
 ![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge)
 
 </div>
@@ -133,4 +133,5 @@ I'm on the lookout for roles where I can build purposeful products and grow as a
 <p align="center">
   <em>Driven by curiosity, purpose, and a love for beautifully-crafted code.</em><br>
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" height="30">
+  (./bottom_header.svg)
 </p>
