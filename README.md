@@ -92,20 +92,13 @@
 - Led implementation of authentication (including Web3 wallet auth)  
 - Collaborated cross-functionally with agile teams
 
-**Personal Projects**
-- Blockchain voting prototype (with IoT)
-- Interactive full-stack apps blending modern UX & real functionality
-- AI/ML experiments fused into web applications
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
 ---
 
-## 🎓 Education & Certifications
 
-- **B.Tech, Computer Science & Engineering** — SRM IST
-- Certified: Full Stack Web Development, Cloud Basics
-- Forever learning Web3, AI/ML, frontend engineering through hands-on building
-
----
 
 ## 📫 How to Reach Me
 
@@ -132,6 +125,6 @@ I'm on the lookout for roles where I can build purposeful products and grow as a
 
 <p align="center">
   <em>Driven by curiosity, purpose, and a love for beautifully-crafted code.</em><br>
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" height="30">
-  (./bottom_header.svg)
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" height="50">
+ 
 </p>
