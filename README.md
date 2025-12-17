@@ -123,5 +123,5 @@ I'm on the lookout for roles where I can build purposeful products and grow as a
 
 <p align="center">
   <em>Driven by curiosity, purpose, and a love for beautifully-crafted code.</em><br>
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" height="100">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" height="500">
 </p>
