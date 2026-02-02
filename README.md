@@ -52,6 +52,19 @@ I'm **Aniket Mishra**, a **Full Stack Developer** and **Web3 & AI/ML Explorer** 
 - 💻 **Portfolio**: Building a new Web3 portfolio with buttery-smooth UX.
 
 ---
+## 🎯 Current Focus
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+- 🔭 Building **Nomad** platform
+- 🤖 AI/ML: SAR image colorization
+- ⚡ Deep diving into Web3 & Smart Contracts
+- 🌱 Contributing to open-source
+- 💼 Crafting a butter-smooth Web3 portfolio
+
+<br clear="right"/>
+
+<br/>
 
 ### 📈 GitHub Stats
 
