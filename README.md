@@ -1,9 +1,12 @@
 <!-- Minimalist Header with Gradient -->
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hi, I'm Aniket Mishra
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aniket!;Full+Stack+Developer;Web3+%26+AI+Explorer;Building+Impactful+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### Full Stack Developer • Web3 & AI Explorer • Building the Future
+<br/>
+<br/>
 
 <p>
   <a href="mailto:anik8mishra@gmail.com"><img src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
